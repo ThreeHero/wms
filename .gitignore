@@ -1,0 +1,5 @@
+/warehouse-web/node_modules/*
+/.idea/*
+/warehouse/target/*
+/warehouse/.mvn/*
+/warehouse/*.iml
