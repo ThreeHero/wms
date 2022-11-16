@@ -1,6 +1,6 @@
 package com.threehero.warehouse.service;
 
-import com.threehero.warehouse.dao.User;
+import com.threehero.warehouse.entity.User;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

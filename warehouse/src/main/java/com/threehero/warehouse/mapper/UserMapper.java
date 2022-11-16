@@ -1,6 +1,6 @@
 package com.threehero.warehouse.mapper;
 
-import com.threehero.warehouse.dao.User;
+import com.threehero.warehouse.entity.User;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import org.apache.ibatis.annotations.Mapper;
 

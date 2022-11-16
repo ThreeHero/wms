@@ -4,7 +4,7 @@ package com.threehero.warehouse.controller;
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.threehero.warehouse.common.Result;
-import com.threehero.warehouse.dao.User;
+import com.threehero.warehouse.entity.User;
 import com.threehero.warehouse.service.UserService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

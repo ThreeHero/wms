@@ -1,4 +1,4 @@
-package com.threehero.warehouse.dao;
+package com.threehero.warehouse.entity;
 
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableId;
